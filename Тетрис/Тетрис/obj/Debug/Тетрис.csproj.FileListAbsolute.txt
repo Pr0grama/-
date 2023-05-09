@@ -1,0 +1,11 @@
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\bin\Debug\Тетрис.exe.config
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\bin\Debug\Тетрис.exe
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\bin\Debug\Тетрис.pdb
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\obj\Debug\Тетрис.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\obj\Debug\Тетрис.csproj.SuggestedBindingRedirects.cache
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\obj\Debug\Тетрис.Form1.resources
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\obj\Debug\Тетрис.Properties.Resources.resources
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\obj\Debug\Тетрис.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\obj\Debug\Тетрис.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\obj\Debug\Тетрис.exe
+C:\Users\Илья\Desktop\Проги\Тетрис\Тетрис\obj\Debug\Тетрис.pdb
